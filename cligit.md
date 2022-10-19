@@ -2,4 +2,4 @@ cli로 작업해보자
 second
 third - branch1
 fourth - branch1
-conflict
+some hot fix
