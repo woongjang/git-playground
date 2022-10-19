@@ -3,4 +3,3 @@ second
 third - branch1
 fourth - branch1
 some hot fix
-conflict를 내보자
